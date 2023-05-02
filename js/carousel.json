@@ -1,0 +1,23 @@
+[
+    {
+      "src": "img/1.jpeg",
+      "alt": "Messenger",
+      "caption": "This is the logo of messenger"
+    },
+    {
+      "src": "img/2.jpeg",
+      "alt": "Chrome",
+      "caption": "This is the logo of chrome"
+    },
+    {
+      "src": "img/3.jpeg",
+      "alt": "pinterest",
+      "caption": "This is the logo of pinterest"
+    },
+    {
+        "src": "img/4.jpeg",
+        "alt": "pinterest",
+        "caption": "This is the logo of pinterest"
+    }
+]
+  

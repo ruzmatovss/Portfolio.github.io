@@ -1,0 +1,48 @@
+[
+    {
+        "src": "img/1.jpg",
+        "alt": "Artificial Intelligencee",
+        "caption": "This is the logo of Artificial Intelligencee"
+    },
+    {
+        "src": "img/2.jpg",
+        "alt": "Neurolink",
+        "caption": "This is the logo of Neurolink"
+    },
+    {
+        "src": "img/3.jpg",
+        "alt": "Intel Chipset Drivers",
+        "caption": "This is the logo of Intel Chipset Drivers"
+    },
+    {
+        "src": "img/4.jpg",
+        "alt": "Networking",
+        "caption": "This is the logo of Networking"
+    },
+    {
+        "src": "img/5.jpg",
+        "alt": "Augmented Reality",
+        "caption": "This is the logo of Augmented Reality"
+    },
+    {
+          "src": "img/6.jpg",
+          "alt": "Data Structure",
+          "caption": "This is the logo of Data Structure"
+    },
+    {
+          "src": "img/7.jpg",
+          "alt": "World Wide Web",
+          "caption": "This is the logo of World Wide Web"
+    },
+    {
+          "src": "img/8.jpg",
+          "alt": "Cooworking",
+          "caption": "This is the logo of Cooworking"
+    },
+    {
+        "src": "img/9.jpg",
+        "alt": "Internet",
+        "caption": "This is the logo of Internet"
+    }     
+]
+  
